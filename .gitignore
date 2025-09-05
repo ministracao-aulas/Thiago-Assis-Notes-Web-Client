@@ -1,3 +1,4 @@
+node_modules
 # Nuxt dev/build outputs
 .output
 .data
@@ -22,3 +23,14 @@ logs
 .env
 .env.*
 !.env.example
+
+# *.[oa]
+# *~
+*no*commit*
+*No*Commit*
+*NO*COMMIT*
+*.bkp.*
+*.bkp
+*.log
+*.out
+_ide_helper*
